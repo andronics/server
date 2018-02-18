@@ -1,0 +1,18 @@
+# Package
+package-lock.json
+lib
+
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# VS Code
+.vscode
+!.vscode/tasks.js
+
+# Optional npm cache directory
+.npm
